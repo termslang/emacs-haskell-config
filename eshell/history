@@ -1,0 +1,60 @@
+cabal
+cabal install
+stack
+ls
+ghci
+emacs Main.hs
+emacs
+:q
+echo $PATH
+cabal
+cabal
+echo $PATH
+echo PATH
+(set-frame-font "Ariel-14")
+(load-theme 'seti t)
+(load-theme 'set t)
+(load-theme 'welcome t)
+(load-theme 'sepia t)
+(load-theme 'mono t)
+(load-theme 'dark t)
+(load-theme 'dracula t)
+(load-theme 'darkula t)
+(load-theme 'darcula t)
+(load-theme 'dracula t)
+ghci
+cabal
+cabal
+:q
+cabal
+hlint
+hoogle
+stylish-haskell
+cabal
+hlint
+cabal
+hoogle
+stylish-haskell
+stylish-haskell
+haskell-mode-stylish-buffer 
+ghci
+hlint
+hl-line-mode 
+hlint
+hlint
+cabal
+hlint
+cabal
+cabal --help
+PATH
+$PATH 
+which hlint 
+hlint
+stylish-haskell 
+cabal
+runghc
+cabal-repl
+ghci 
+cabal
+ghci
+cabal repl
