@@ -5,7 +5,7 @@ My EMACS configuration for Haskell
 Install EMACS. Don't run it. Clone the repo:
 
 ```
-git clone https://github.com/purcell/emacs.d.git ~/.emacs.d
+git clone https://github.com/termslang/emacs-haskell-config ~/.emacs.d
 ```
 
 Run EMACS
