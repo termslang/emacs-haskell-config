@@ -1,3 +1,23 @@
+;;;OCAML;;;;;;;;;;;;;;;;;;;;
+;;
+;; brew install opam
+;; opam init
+;; eval $(opam env)
+;; brew install ocaml
+;; brew install gmp
+;; opam install merlin ocp-indent tuareg utop
+;;
+;; brew install conf-gmp-powm-sec
+;; brew install pkg-config
+;; opam install cryptokit
+;;
+;; opam install sha
+;; opam install zarith
+;;
+;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
 ;; default window size
 (defun get-default-height ()
        (/ (- (display-pixel-height) 120)
@@ -265,3 +285,4 @@
 
 ;; TODO merlin use packages
 ;; (merlin-use Z)
+
